@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Windows</DockerTargetOS>
-    <ProjectGuid>2f0f9803-2d1b-4bf7-b79c-66d319b84c2b</ProjectGuid>
+    <ProjectGuid>443b368a-ec1e-4d97-87e8-e806ecf483c0</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://{ServiceIPAddress}{ServicePort}/swagger</DockerServiceUrl>
     <DockerServiceName>contailerapp</DockerServiceName>
