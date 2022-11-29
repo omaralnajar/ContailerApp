@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  contailerapp:
+    image: ${DOCKER_REGISTRY-}contailerapp
+    build:
+      context: .
+      dockerfile: ContailerApp\Dockerfile

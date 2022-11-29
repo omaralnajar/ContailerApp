@@ -1,0 +1,14 @@
+D:\My Desk\Practice\ContailerApp\bin\Debug\ContailerApp.deps.json
+D:\My Desk\Practice\ContailerApp\bin\Debug\ContailerApp.runtimeconfig.json
+D:\My Desk\Practice\ContailerApp\bin\Debug\appsettings.Development.json
+D:\My Desk\Practice\ContailerApp\bin\Debug\appsettings.json
+D:\My Desk\Practice\ContailerApp\bin\Debug\ContailerApp.exe
+D:\My Desk\Practice\ContailerApp\bin\Debug\ContailerApp.dll
+D:\My Desk\Practice\ContailerApp\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Desk\Practice\ContailerApp\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Desk\Practice\ContailerApp\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Desk\Practice\ContailerApp\bin\Debug\Microsoft.OpenApi.dll
+D:\My Desk\Practice\ContailerApp\bin\Debug\ContailerApp.pdb
+D:\My Desk\Practice\ContailerApp\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\My Desk\Practice\ContailerApp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\My Desk\Practice\ContailerApp\obj\Debug\docker-compose.dcproj.CopyComplete
